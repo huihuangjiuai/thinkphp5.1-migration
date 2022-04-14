@@ -11,7 +11,7 @@ $fileName = static::getCurrentTimestamp() . '_' . strtolower(implode( $arr,'_'))
 
 ## 安装
 ~~~
-composer require huihuangjiuai/think5.1-migration
+composer require huihuangjiuai/thinkphp5.1-migration
 ~~~
 ~~~
 用法和官方的thinkphp-migration:2.0.3一样一样的
