@@ -4,5 +4,5 @@
 
 ## 安装
 ~~~
-composer require huihuangjiuai/think5.0-migration
+composer require huihuangjiuai/think5.1-migration
 ~~~
